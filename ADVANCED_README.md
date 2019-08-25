@@ -12,6 +12,7 @@ Official Documentation: [PM2 official documentation](https://pm2.io/doc/en/runti
 - [EACCESS - understanding pm2 user/root rights](https://github.com/Unitech/PM2/issues/837)
 
 <a name="a20"/>
+
 ## External resources and articles
 
 - [Goodbye node-forever, hello pm2](http://devo.ps/blog/goodbye-node-forever-hello-pm2/)
@@ -40,6 +41,7 @@ Official Documentation: [PM2 official documentation](https://pm2.io/doc/en/runti
 Thanks to [Devo.ps](http://devo.ps/) and [Wiredcraft](http://wiredcraft.com/) for their knowledge and expertise.
 
 <a name="a15"/>
+
 # License
 
 Files in `lib/` are made available under the terms of the GNU Affero General Public License 3.0 (AGPL 3.0).
